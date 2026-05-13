@@ -5,7 +5,7 @@ The project features real-time rendering, interactive gameplay mechanics, dynami
 
 ## Live Demo
 
-[Play the Game Here](https://joelbust.github.io/Endless-Drive-Game-WebApp](https://joelbust.xyz/driving-game/index.html)
+[Play the Game Here](https://joelbust.xyz/driving-game/index.html)
 
 ---
 
